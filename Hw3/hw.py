@@ -107,6 +107,7 @@ def processdata(filepath: str, yearDict):
 
     if isInsideTropical:
         Stayed_In_Tropical += 1
+    print(count)
     return storms
 
 def outputData(inputData, Region):

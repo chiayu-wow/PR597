@@ -3,7 +3,9 @@ from pygeodesy import ellipsoidalVincenty as ev
 geod = Geodesic.WGS84  # define the WGS84 ellipsoid
 
 def test():
+    return 1
     print('cool')
+
 
 g = geod.Inverse(0, 0, 10, 0)  # go north 10 degrees from equator
 print("The distance is {:.2f} meters = {:.3f} nautical miles".format(g['s12'],

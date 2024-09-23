@@ -1,0 +1,238 @@
+ID                       City Name                          Country Name             Latitude  Longitude population     HitBy     Duration       
+1840015149               Miami                              United States            25.784    -80.2101  6080145        14        8              
+1840015163               Charleston                         United States            32.8168   -79.9687  706884         13        20             
+1840015130               Cape Coral                         United States            26.6443   -81.9957  654405         10        4              
+1840015094               Palm Bay                           United States            27.9631   -80.6593  534348         9         0              
+1484614906               Heroica Matamoros                  Mexico                   25.8797   -97.5042  541979         8         4              
+1192752771               Havana                             Cuba                     23.1367   -82.3589  2089532        7         0              
+1630035577               San Juan                           Puerto Rico              18.3985   -66.061   1814587        7         0              
+1484010310               Cancún                             Mexico                   21.1606   -86.8475  888797         7         12             
+1840015982               Tampa                              United States            27.9945   -82.4447  2861173        6         0              
+1840003871               Virginia Beach                     United States            36.7335   -76.0435  1443020        6         0              
+1840013941               Baton Rouge                        United States            30.442    -91.1311  635671         6         6              
+1388709177               Kingston                           Jamaica                  17.9714   -76.7931  580000         6         2              
+1214636202               Santo Domingo                      Dominican Republic       18.4667   -69.95    1128678        5         2              
+1332401940               Port-au-Prince                     Haiti                    18.5333   -72.3333  987310         5         0              
+1214664832               Santo Domingo Este                 Dominican Republic       18.4855   -69.8734  948855         5         0              
+1484396779               Mérida                             Mexico                   20.97     -89.62    892363         5         0              
+1840014730               Columbia                           United States            34.0378   -80.9036  604065         5         0              
+1332000098               Carrefour                          Haiti                    18.5344   -72.4094  511345         5         0              
+1840020925               Houston                            United States            29.786    -95.3885  5970127        4         6              
+1840000455               Boston                             United States            42.3188   -71.0852  4328315        4         0              
+1840015099               Orlando                            United States            28.4773   -81.337   1882705        4         0              
+1840003289               Providence                         United States            41.823    -71.4187  1290271        4         0              
+1840015031               Jacksonville                       United States            30.3322   -81.6749  1288298        4         3              
+1840001839               New Orleans                        United States            30.0687   -89.9288  932759         4         0              
+1484463183               Acapulco de Juárez                 Mexico                   16.8636   -99.8825  673478         4         1              
+1484841466               Mazatlán                           Mexico                   23.2167   -106.4167 501441         4         2              
+1840006060               Washington                         United States            38.9047   -77.0163  5116378        3         0              
+1840022220               San Antonio                        United States            29.4632   -98.5238  2058444        3         0              
+1840001254               Pittsburgh                         United States            40.4397   -79.9763  1749091        3         0              
+1840014557               Charlotte                          United States            35.2083   -80.8303  1427444        3         0              
+1840005293               Hempstead                          United States            40.6629   -73.6089  789763         3         0              
+1840034016               New York                           United States            40.6943   -73.9249  18908608       2         0              
+1124586170               Montréal                           Canada                   45.5089   -73.5617  3675219        2         0              
+1840034030               Brooklyn                           United States            40.6501   -73.9496  2736074        2         0              
+1840034002               Queens                             United States            40.7498   -73.7976  2405464        2         0              
+1840034000               Manhattan                          United States            40.7834   -73.9662  1694263        2         0              
+1840033999               Bronx                              United States            40.8501   -73.8662  1472654        2         0              
+1214985348               Santiago                           Dominican Republic       19.4572   -70.6889  1343423        2         0              
+1840014497               Raleigh                            United States            35.8324   -78.6429  1163152        2         0              
+1558296252               Managua                            Nicaragua                12.1364   -86.2514  1051236        2         0              
+1840020428               Oklahoma City                      United States            35.4676   -97.5136  998806         2         0              
+1840004773               Hartford                           United States            41.7661   -72.6834  974684         2         0              
+1840030815               Louisville                         United States            38.1663   -85.6485  963812         2         6              
+1484719986               El Dorado                          Mexico                   24.808    -107.397  858638         2         0              
+1484516810               Culiacán                           Mexico                   24.8069   -107.3939 808416         2         0              
+1840021024               McAllen                            United States            26.2252   -98.2467  797341         2         0              
+1840004850               New Haven                          United States            41.3113   -72.9246  565572         2         0              
+1484559591               Monterrey                          Mexico                   25.6667   -100.3    5341171        1         0              
+1840013660               Atlanta                            United States            33.7628   -84.422   5180179        1         0              
+1840003971               Detroit                            United States            42.3834   -83.1024  3725908        1         0              
+1340344059               Tegucigalpa                        Honduras                 14.1058   -87.2047  1682725        1         0              
+1840003760               Columbus                           United States            39.9862   -82.9855  1572546        1         0              
+1484840083               Juárez                             Mexico                   31.745    -106.485  1321004        1         0              
+1340762485               Comayagüela                        Honduras                 14.098    -87.21    1250000        1         0              
+1840036155               Nashville                          United States            36.1715   -86.7842  1177657        1         0              
+1724991838               Sevilla                            Spain                    37.39     -5.99     1100000        1         0              
+1840001698               Richmond                           United States            37.5295   -77.4756  1073223        1         0              
+1124399363               Ottawa                             Canada                   45.4247   -75.695   1068821        1         0              
+1840020696               Fort Worth                         United States            32.7817   -97.3474  924663         1         0              
+1840004836               Bridgeport                         United States            41.1918   -73.1954  908251         1         0              
+1840022101               Tucson                             United States            32.1541   -110.8787 878320         1         0              
+1840023252               El Paso                            United States            31.8476   -106.43   865270         1         0              
+1340568412               San Pedro Sula                     Honduras                 15.5      -88.0333  793835         1         0              
+1840006507               Birmingham                         United States            33.5279   -86.7971  782111         1         0              
+1826921049               Bristol                            United Kingdom           51.4536   -2.5975   707412         1         0              
+1840000373               Rochester                          United States            43.168    -77.6162  699921         1         0              
+1484002410               Guadalupe                          Mexico                   25.6775   -100.2597 691931         1         0              
+1484854616               Durango                            Mexico                   24.025    -104.6675 654876         1         0              
+1840014486               Knoxville                          United States            35.9692   -83.9496  615829         1         0              
+1840000417               Albany                             United States            42.6664   -73.7987  590694         1         0              
+1620619017               Lisbon                             Portugal                 38.7253   -9.15     548703         1         0              
+1484855080               Ciudad Apodaca                     Mexico                   25.7817   -100.1886 523370         1         0              
+1484247881               Mexico City                        Mexico                   19.4333   -99.1333  21804000       0         0              
+1840020491               Los Angeles                        United States            34.1141   -118.4068 11922389       0         0              
+1826645935               London                             United Kingdom           51.5072   -0.1275   11262000       0         0              
+1840000494               Chicago                            United States            41.8375   -87.6866  8497759        0         0              
+1170483426               Bogotá                             Colombia                 4.7111    -74.0722  7968095        0         0              
+1724616994               Madrid                             Spain                    40.4169   -3.7033   6211000        0         0              
+1840019440               Dallas                             United States            32.7935   -96.7667  5830932        0         0              
+1840000673               Philadelphia                       United States            40.0077   -75.1339  5683533        0         0              
+1124279679               Toronto                            Canada                   43.7417   -79.3733  5647656        0         0              
+1484950208               Guadalajara                        Mexico                   20.6767   -103.3475 5525000        0         0              
+1384207980               Abidjan                            Côte d’Ivoire            5.3167    -4.0333   4980000        0         0              
+1466965925               Bamako                             Mali                     12.6392   -8.0028   4227569        0         0              
+1840020568               Phoenix                            United States            33.5722   -112.0892 4064275        0         0              
+1840021117               Seattle                            United States            47.6211   -122.3244 3561397        0         0              
+1504175315               Casablanca                         Morocco                  33.5333   -7.5833   3499000        0         0              
+1288181103               Kumasi                             Ghana                    6.7       -1.625    3490030        0         0              
+1840021543               San Francisco                      United States            37.7558   -122.4449 3364979        0         0              
+1288164978               Boankra                            Ghana                    6.6944    -1.4028   3348000        0         0              
+1840021990               San Diego                          United States            32.8313   -117.1222 3046560        0         0              
+1320197916               Guatemala City                     Guatemala                14.6133   -90.5353  3014000        0         0              
+1826423213               Birmingham                         United Kingdom           52.48     -1.9025   2919600        0         0              
+1840007830               Minneapolis                        United States            44.9635   -93.2678  2892569        0         0              
+1840018789               Denver                             United States            39.762    -104.8758 2687458        0         0              
+1170680389               Medellín                           Colombia                 6.2308    -75.5906  2529403        0         0              
+1170417589               Cali                               Colombia                 3.4206    -76.5222  2471474        0         0              
+1854029208               Ouagadougou                        Burkina Faso             12.3686   -1.5275   2453496        0         0              
+1124825478               Vancouver                          Canada                   49.25     -123.1    2426160        0         0              
+1288299415               Accra                              Ghana                    5.55      -0.2      2388000        0         0              
+1840020551               Riverside                          United States            33.9381   -117.3949 2332836        0         0              
+1840020364               Las Vegas                          United States            36.2333   -115.2654 2248047        0         0              
+1862748204               Caracas                            Venezuela                10.4806   -66.9036  2245744        0         0              
+1840001592               Baltimore                          United States            39.3051   -76.6144  2196524        0         0              
+1840001651               St. Louis                          United States            38.6359   -90.2451  2130881        0         0              
+1840019941               Portland                           United States            45.5371   -122.65   2095808        0         0              
+1484708778               Tijuana                            Mexico                   32.525    -117.0333 2002000        0         0              
+1840021491               Sacramento                         United States            38.5677   -121.4685 1957738        0         0              
+1484003694               Ecatepec                           Mexico                   19.6097   -99.06    1929926        0         0              
+1840019590               Austin                             United States            30.3005   -97.7522  1905945        0         0              
+1840021570               San Jose                           United States            37.3012   -121.848  1771413        0         0              
+1840030084               Indianapolis                       United States            39.7771   -86.1458  1729849        0         0              
+1840003814               Cincinnati                         United States            39.1413   -84.506   1692702        0         0              
+1840008535               Kansas City                        United States            39.1238   -94.5541  1689556        0         0              
+1840000596               Cleveland                          United States            41.4764   -81.6805  1680247        0         0              
+1324568159               Conakry                            Guinea                   9.5092    -13.7122  1667864        0         0              
+1466367944               Balandougou                        Mali                     13.3558   -9.5517   1596882        0         0              
+1724981666               Valencia                           Spain                    39.47     -0.3764   1595000        0         0              
+1484811199               León de los Aldama                 Mexico                   21.1167   -101.6833 1579803        0         0              
+1484416394               Puebla                             Mexico                   19.0333   -98.1833  1576259        0         0              
+1384759584               Yopougon                           Côte d’Ivoire            5.3167    -4.0667   1571065        0         0              
+1862072711               Maracaibo                          Venezuela                10.6333   -71.6333  1551539        0         0              
+1188749877               San José                           Costa Rica               9.9325    -84.08    1543000        0         0              
+1591672475               Panama City                        Panama                   8.9833    -79.5167  1500189        0         0              
+1862309871               Valencia                           Venezuela                10.1833   -68.0     1484430        0         0              
+1484198680               Zapopan                            Mexico                   20.7167   -103.4    1476491        0         0              
+1686604760               Dakar                              Senegal                  14.6928   -17.4467  1438725        0         0              
+1170179113               Barranquilla                       Colombia                 10.9833   -74.8019  1326588        0         0              
+1124690423               Calgary                            Canada                   51.05     -114.0667 1306784        0         0              
+1840003046               Milwaukee                          United States            43.0642   -87.9675  1290940        0         0              
+1620356810               Porto                              Portugal                 41.1621   -8.622    1278210        0         0              
+1372595407               Dublin                             Ireland                  53.35     -6.2603   1263219        0         0              
+1840021383               Salt Lake City                     United States            40.7776   -111.9311 1173879        0         0              
+1686165071               Pikine                             Senegal                  14.75     -17.4     1170791        0         0              
+1124290735               Edmonton                           Canada                   53.5344   -113.4903 1151635        0         0              
+1504861997               Fès                                Morocco                  34.0433   -5.0033   1112072        0         0              
+1484788702               Mexicali                           Mexico                   32.6633   -115.4678 1102342        0         0              
+1288890688               Tamale                             Ghana                    9.4075    -0.8533   1095808        0         0              
+1484074285               Nezahualcóyotl                     Mexico                   19.4081   -99.0186  1077208        0         0              
+1478414984               Nouakchott                         Mauritania               18.0858   -15.9785  1077169        0         0              
+1484016661               Ciudad Nezahualcóyotl              Mexico                   19.4006   -99.0148  1072676        0         0              
+1862860739               Barquisimeto                       Venezuela                10.0636   -69.3347  1059092        0         0              
+1840015457               Memphis                            United States            35.1087   -89.9663  1037998        0         0              
+1430477826               Monrovia                           Liberia                  6.3133    -10.8014  1021762        0         0              
+1862252264               San Cristóbal                      Venezuela                7.7667    -72.2333  1015623        0         0              
+1484669072               Morelia                            Mexico                   19.7683   -101.1894 1011704        0         0              
+1288459533               Domaa-Ahenkro                      Ghana                    7.2833    -2.8833   1000000        0         0              
+1250449238               Bordeaux                           France                   44.84     -0.58     994920         0         0              
+1724397372               Málaga                             Spain                    36.7194   -4.42     967250         0         0              
+1504172585               Marrakech                          Morocco                  31.63     -8.0089   966987         0         0              
+1694085071               Freetown                           Sierra Leone             8.4844    -13.2344  951000         0         0              
+1504861504               Tangier                            Morocco                  35.7767   -5.8039   947952         0         0              
+1840000386               Buffalo                            United States            42.9018   -78.8487  944589         0         0              
+1484666646               Aguascalientes                     Mexico                   21.876    -102.296  934424         0         0              
+1170886102               Cartagena                          Colombia                 10.4      -75.5     914552         0         0              
+1484850125               Naucalpan de Juárez                Mexico                   19.4753   -99.2378  910407         0         0              
+1854348796               Bobo-Dioulasso                     Burkina Faso             11.1833   -4.2833   903887         0         0              
+1170940590               Bucaramanga                        Colombia                 7.1333    -73.0     893040         0         0              
+1484335603               Chihuahua                          Mexico                   28.6369   -106.0769 878062         0         0              
+1862647790               Barinas                            Venezuela                8.6333    -70.2     873962         0         0              
+1484107245               Saltillo                           Mexico                   25.4231   -100.9919 864431         0         0              
+1826964096               Portsmouth                         United Kingdom           50.8058   -1.0872   855679         0         0              
+1826602892               Southampton                        United Kingdom           50.9025   -1.4042   855569         0         0              
+1484015319               Hermosillo                         Mexico                   29.0989   -110.9542 855563         0         0              
+1504989034               Sale                               Morocco                  34.0333   -6.8      850403         0         0              
+1840009315               Omaha                              United States            41.2627   -96.0529  821345         0         0              
+1170743755               Cúcuta                             Colombia                 7.8942    -72.5039  806378         0         0              
+1484604775               Querétaro                          Mexico                   20.5875   -100.3928 801940         0         0              
+1170614290               Palermo                            Colombia                 2.8917    -75.4375  800000         0         0              
+1826343963               Leeds                              United Kingdom           53.7975   -1.5436   789194         0         0              
+1724331267               Bilbao                             Spain                    43.2569   -2.9236   775000         0         0              
+1484583620               San Luis Potosí                    Mexico                   22.1511   -100.9761 772828         0         0              
+1840019176               Albuquerque                        United States            35.1054   -106.6465 769986         0         0              
+1124224963               Winnipeg                           Canada                   49.8844   -97.1464  758515         0         0              
+1862889027               Ciudad Guayana                     Venezuela                8.3667    -62.65    751331         0         0              
+1124823933               Quebec City                        Canada                   46.8139   -71.2081  733156         0         0              
+1840021672               Tulsa                              United States            36.1283   -95.9042  731743         0         0              
+1826122597               Nottingham                         United Kingdom           52.9561   -1.1512   729977         0         0              
+1124567288               Hamilton                           Canada                   43.2567   -79.8692  729560         0         0              
+1840020319               Fresno                             United States            36.783    -119.7939 725276         0         0              
+1124112672               Mississauga                        Canada                   43.6      -79.65    717961         0         0              
+1384351512               Cocody                             Côte d’Ivoire            5.35      -3.9667   692583         0         0              
+1724907391               Zaragoza                           Spain                    41.65     -0.8833   682513         0         0              
+1170765625               Soledad                            Colombia                 10.9167   -74.75    676014         0         0              
+1724107739               Murcia                             Spain                    37.9861   -1.1303   672773         0         0              
+1840034249               Dayton                             United States            39.7805   -84.2003  668825         0         0              
+1484087945               Tlaquepaque                        Mexico                   20.6167   -103.3167 664193         0         0              
+1170426927               Villavicencio                      Colombia                 4.15      -73.6333  664148         0         0              
+1862657837               Catia La Mar                       Venezuela                10.6      -67.0333  661897         0         0              
+1384983838               Bouaké                             Côte d’Ivoire            7.6833    -5.0167   659233         0         0              
+1124625989               Brampton                           Canada                   43.6833   -79.7667  656480         0         0              
+1484861603               Tlalnepantla                       Mexico                   19.5367   -99.1947  653410         0         0              
+1840020580               Mission Viejo                      United States            33.6096   -117.6551 642211         0         0              
+1840018825               Colorado Springs                   United States            38.8674   -104.7605 638194         0         0              
+1724501748               Las Palmas                         Spain                    28.1258   -15.4353  635000         0         0              
+1840001044               Allentown                          United States            40.5961   -75.4756  627863         0         0              
+1826836462               Glasgow                            United Kingdom           55.8611   -4.25     626410         0         0              
+1840020135               Ogden                              United States            41.2279   -111.9682 622918         0         0              
+1840020174               Provo                              United States            40.2457   -111.6457 619218         0         0              
+1384512844               Port-Bouët                         Côte d’Ivoire            5.2667    -3.9      618795         0         0              
+1484504936               Chimalhuacán                       Mexico                   19.4167   -98.9     614453         0         0              
+1840002928               Grand Rapids                       United States            42.9619   -85.6562  609023         0         0              
+1484625454               Irapuato                           Mexico                   20.6667   -101.35   592953         0         0              
+1170386718               Pereira                            Colombia                 4.8143    -75.6946  590554         0         0              
+1484737671               Reynosa                            Mexico                   26.0922   -98.2778  589466         0         0              
+1484832519               Tuxtla                             Mexico                   16.7528   -93.1167  578830         0         0              
+1504023252               Rabat                              Morocco                  34.0209   -6.8416   572717         0         0              
+1840019148               Bakersfield                        United States            35.3529   -119.0359 571992         0         0              
+1484750897               Tonalá                             Mexico                   20.6167   -103.2333 569913         0         0              
+1124001454               Surrey                             Canada                   49.19     -122.8489 568322         0         0              
+1862318264               Ciudad Bolívar                     Venezuela                8.1219    -63.55    567953         0         0              
+1170423489               Bello                              Colombia                 6.3333    -75.5667  561955         0         0              
+1484282338               Cuautitlán Izcalli                 Mexico                   19.65     -99.25    555163         0         0              
+1840007069               Des Moines                         United States            41.5725   -93.6105  548926         0         0              
+1826246335               Manchester                         United Kingdom           53.479    -2.2452   547627         0         0              
+1170481949               Valledupar                         Colombia                 10.4833   -73.25    544134         0         0              
+1484452937               Ixtapaluca                         Mexico                   19.3186   -98.8822  542211         0         0              
+1840000791               Akron                              United States            41.0798   -81.5219  541945         0         0              
+1170245063               Ibagué                             Colombia                 4.4333    -75.2333  541101         0         0              
+1724813158               Santa Cruz                         Spain                    28.4667   -16.25    538000         0         0              
+1840018905               Concord                            United States            37.9722   -122.0016 531175         0         0              
+1686956738               Touba                              Senegal                  14.8667   -15.8833  529176         0         0              
+1862528581               Santa Teresa del Tuy               Venezuela                10.2333   -66.6639  525321         0         0              
+1170855299               Montería                           Colombia                 8.75      -75.8833  523150         0         0              
+1124158530               Kitchener                          Canada                   43.4186   -80.4728  522888         0         0              
+1170512000               Soacha                             Colombia                 4.5872    -74.2214  522442         0         0              
+1484562374               Tultitlán de Mariano Escobedo      Mexico                   19.645    -99.1694  520557         0         0              
+1504333193               Meknès                             Morocco                  33.895    -5.5547   520428         0         0              
+1826289852               Sheffield                          United Kingdom           53.3808   -1.4703   518090         0         0              
+1320420152               Mixco                              Guatemala                14.6331   -90.6064  517505         0         0              
+1170715594               Santa Marta                        Colombia                 11.2419   -74.2053  515556         0         0              
+1862546949               Maturín                            Venezuela                9.75      -63.183   514046         0         0              
+1826558678               Liverpool                          United Kingdom           53.4094   -2.9785   513441         0         0              
+1076189884               Macapá                             Brazil                   0.033     -51.05    512902         0         0              
+1840001686               Wichita                            United States            37.6895   -97.3443  509003         0         0              
+1826431946               Leicester                          United Kingdom           52.6344   -1.1319   508916         0         0              
+1840020566               Mesa                               United States            33.4015   -111.7178 503390         0         0              

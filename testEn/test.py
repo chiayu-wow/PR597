@@ -65,3 +65,24 @@ def myLatLon(lat: str, lon: str) -> ev.LatLon:
 a = myLatLon('43.2N', '359.1W')
 b = myLatLon('44.0N', '358.4W')
 print(f' a : {a} b : {b}')
+
+def factorial(n: int) -> int:
+    """Compute a factorial.
+
+    :param n: The number to factorialize
+    :return: the factorial of n
+    """
+    # check validity of n:
+    if not isinstance(n, int) or n < 0:
+        raise ValueError('parameter n must be a non-negative integer.')
+
+    f = 1
+    for x in range(1, n + 1):
+        f *= x
+    return f
+
+
+try:
+    answer = factorial(-428465436541345)
+except ValueError as e:
+    pass
